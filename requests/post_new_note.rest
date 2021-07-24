@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/notes
+Content-Type: application/json
+
+{
+    "content": "React is not that easy",
+    "date": "2021-07-21T10:04:31.098Z",
+    "important": true
+}
